@@ -1,25 +1,27 @@
 # Skynet-Hive
-A list of awesome Skynet applications
+
+A list of awesome Skynet applications and resources
 
 ## Skynet Applications
-Here is a list of some of the Skynet applications out there. This list can be used to generate ideas for new Skynet applications or can be used to fine cool projects that you would like to contribute to.
-- Pastebin but on Skynet: https://siasky.net/CAAVU14pB9GRIqCrejD7rlS27HltGGiiCLICzmrBV0wVtA
-- Skynet video playlist creator: https://siasky.net/nAAJroJW0Z7cYcpev1VVjJXXGU1WF8YQ8eUs8dJHTDEXqQ
-- Skynet audio playlist creator: https://siasky.net/IAC_-QuVMlNuwI11kMZOz7w5qeYTL8Bsh0FJfIyp_hcX0Q
-- Skynet blogging tool: https://github.com/NebulousLabs/skynet-blogger
 
+Here are just a sampling of the great applications that are part of the Skynet ecosytem. Check them out, get inspired and come ask the developers questions on the [Sia Discord](https://discord.gg/sia/). This list can be used to generate ideas for new Skynet applications or can be used to fine cool projects that you would like to contribute to.
 
-## Potential Apps
-In addition to the list above, there is a list of different types of applications that can be built on Skynet and leverage this awesome new tech.
-- Backup tools
-- Extensions to video streaming apps like Plex
-- Games that are hosted on Skynet
-- JAMstack integrations
-- Skynet integration for https://dappnode.io/
-- App that creates unique links to a file. Lets you limit how many times a file can be downloaded from a unique link. This is for webshops selling digital goods to be sure a file isn’t just shared.
-- Wetransfer clone: upload file that is automatically deleted after 7 days. You get a message/email when a file is downloaded.
-- Escrow: your client puts crypto in escrow that is released when you upload a file. A link is automatically shared with the client.
-- File pool: lets you pool files together. You can access pooled files if your shared files are accepted by x(3) other participants. Also, limit filetypes per pool. E.g create pool just for .wav files and .cvs files
-- A tool to bookmark and share other Skynet applications and files
-- A desktop app for browsing Skynet without using a centralized portal
-- Migrating existing apps from https://awesome.ipfs.io/ to Skynet
+- [SkySend](https://skysend.hns.siasky.net/)
+- [Hackerpaste](https://hackerpaste.hns.siasky.net/)
+- [MARStorage](https://marstorage.hns.siasky.net/)
+- [Skyfeed](https://skyfeed.hns.siasky.net/#/)
+- [Skylearn](https://skylearn.hns.siasky.net/)
+- [Skynet App Store](https://skyapps.hns.siasky.net/#/)
+
+## Skynet Resources
+
+- [ Skynet SDK Docs ](https://siasky.net/docs/)
+- [ Skynet Guide ](https://support.siasky.net/)
+- [ Developing on Skynet ](https://support.siasky.net/the-technology/developing-on-skynet)
+- [ Skynet Workshop ](https://github.com/SkynetHQ/skynet-workshop)
+
+## Community Dev Tools
+
+- [py-skydb](https://github.com/PowerLoom/py-skydb)
+- [Skynet SDK for Dart](https://github.com/redsolver/skynet)
+- [dotnet-skynet](https://github.com/schulz3000/dotnet-skynet)
